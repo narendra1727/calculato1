@@ -1,0 +1,41 @@
+.outer1{
+    height:650px;
+    width:25%;
+    border: 2px solid black;
+    border-radius: 10px;
+    margin-right: 50px;
+
+}
+
+#input1{
+    position: static;
+    margin-top: 10px;
+    border:2px solid grey;
+    border-radius: 3px;
+    margin-left:10px;
+    padding-bottom: 50px;
+    padding-top:5px;
+    font-size:20px;
+    width:80%;
+    color: red;
+    border-left:2px solid grey;
+
+}
+
+
+
+
+.btn{
+    width:15%;
+    height:15%;
+    margin: 10px;
+    font-size: 20px;
+
+
+}
+
+.btn1{
+    width: 40%;
+    height:10%;
+}
+
